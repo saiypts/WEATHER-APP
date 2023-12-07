@@ -9,7 +9,7 @@ function Weather() {
     country: "",
   });
 
-  const APIKEY = "Enter Your API Key";
+  const APIKEY = "69b1946359fa333047dff2176e6daf0b";
   
   async function weatherData(e) {
     e.preventDefault();
